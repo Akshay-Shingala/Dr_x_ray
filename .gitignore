@@ -1,0 +1,5 @@
+media/
+migrations/
+db.sqlite3
+*.txt
+.DS_Store
